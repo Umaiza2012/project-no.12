@@ -1,0 +1,87 @@
+/*Selector (css syntax)*/
+h1
+{
+ position:fixed;
+ background-color: cornflowerblue;
+ padding:10px;
+ width:100%;
+ margin:0;
+ opacity:0.5;
+}
+#p1
+{
+    position:absolute;
+    background-color:paleturquoise;
+}
+#p2 {
+    position: static;
+    background-color:royalblue;
+}
+#p3 {
+    position: absolute;
+    background-color: grey;
+}
+#p4 {
+    position: static;
+    background-color: peachpuff;
+}
+#p5 {
+    position: absolute;
+    background-color: orangered;
+}
+#p6 {
+    position: static;
+    background-color: rgb(245, 245, 245);
+}
+#p7 {
+    position: absolute;
+    background-color: rgb(245, 189, 189);
+}
+#p8 {
+    position: static;
+    background-color: rgb(241, 185, 237);
+}
+#p9 {
+    position: absolute;
+    background-color: rgb(221, 128, 133);
+}
+#p10 {
+    position: static;
+    background-color: rgb(117, 98, 221);
+}
+#p11 {
+    position: absolute;
+    background-color: rgb(201, 253, 255);
+}
+#p12 {
+    position: static;
+    background-color: rgb(236, 203, 12);
+}
+#p13 {
+    position: absolute;
+    background-color: rgb(11, 247, 11);
+}
+#p14 {
+    position: static;
+    background-color: yellow;
+}
+#p15 {
+    position: absolute;
+    background-color: burlywood;
+}
+#p16 {
+    position: static;
+    background-color: rosybrown;
+}
+#p17 {
+    position: absolute;
+    background-color: goldenrod;
+}
+#p18 {
+    position: static;
+    background-color: orange;
+}
+#footer {
+    position: sticky;
+    background-color: palegreen;
+}
